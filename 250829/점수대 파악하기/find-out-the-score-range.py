@@ -5,4 +5,4 @@ for i in n:
         break
     tmp[(i//10)] += 1
 for idx in range(10,0,-1):
-    print(f"{(idx)*10} - {tmp[idx]}")
+    print(f"{(idx)*10} - {tmp7[idx]}")
